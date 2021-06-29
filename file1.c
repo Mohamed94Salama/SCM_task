@@ -3,9 +3,7 @@
 int main(void)
 {
 	int x=5,y=10;
-	int sum = x+y;
-	printf("Sum = %d\n",sum);
-	int diff = y-x;
-	printf("Difference = %d\n",diff);
+	int mul = x*y;
+	printf("Mul = %d\n",mul);
 	return 0;
 }
